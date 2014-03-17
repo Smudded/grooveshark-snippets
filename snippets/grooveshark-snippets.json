@@ -6,7 +6,7 @@
     },
     "Icon": {
       "prefix": "icon",
-      "body": "<i class=\"icon $1\"></i>"
+      "body": "<i class=\"icon icon-$1\"></i>"
     }
   }
 }
