@@ -2,7 +2,7 @@
   ".text.html": {
     "Button": {
       "prefix": "btn",
-      "body": "<a class=\"btn btn-$1\">\n\t<i class=\"icon icon-$2\"></i>\n\t<span class=\"label\" data-translate-text=\"$3\">$3</span>\n</a>"
+      "body": "<a class=\"btn btn-$1\">\n\t<i class=\"icon icon-$2\"></i>\n\t<span class=\"label\" data-translate-text=\"$3\"><%= _.getString('$4') %></span>\n</a>"
     },
     "Icon": {
       "prefix": "icon",
