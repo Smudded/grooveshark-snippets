@@ -1,0 +1,22 @@
+{
+  "name": "grooveshark-snippets",
+  "version": "1.0",
+  "private": true,
+  "description": "A bunch of helpful snippets for the Grooveshark codebase.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smudded/grooveshark-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Grooveshark Snippets package\n\nHelpful Snippets for the Grooveshark code base\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Smudded/grooveshark-snippets/issues"
+  },
+  "homepage": "https://github.com/Smudded/grooveshark-snippets",
+  "_id": "grooveshark-snippets@1.0"
+}
